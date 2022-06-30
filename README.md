@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Steffixxii
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning ReactJs at Open Bootcamp 
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 You can reach me @ info@steffigarcia.com
 
